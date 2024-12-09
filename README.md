@@ -36,8 +36,5 @@ Black (code formatter)
 isort (import sorter)  
 Poetry (dependency management)  
   
-<u>Deployment:</<u>  
+<u>Deployment:</u>  
 Docker Compose (local)  
-
-
-### Setup
